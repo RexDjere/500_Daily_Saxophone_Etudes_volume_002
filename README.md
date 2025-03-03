@@ -30,4 +30,34 @@ This repository is organized into the following directories:
 ---
 
 ## License
-This work is licensed under the **Creativ
+This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+📜 **[Learn More About the License](https://creativecommons.org/licenses/by/4.0/)**
+
+You are free to **use, modify, and share** the materials as long as you provide appropriate credit.
+
+---
+
+## Purchase the Book
+The *500 Daily Saxophone Etudes - Volume 2 (Eb Edition)* will soon be available for purchase on **Amazon**. A link will be provided here once the book is published.
+
+---
+
+## How to Use This Repository
+1. **Browse the directories** to access the etudes, formatted text files, and resources.
+2. **Download** the files for practice and study.
+3. **Open the ODT files** in **LibreOffice** for custom formatting.
+4. **Edit XCF files** in **GIMP** if you wish to modify graphics.
+
+---
+
+## Author
+👤 **Rex Djere**  
+🎷 Saxophonist | Educator | Author  
+📧 Contact: [rex@djere.com](mailto:rex@djere.com)  
+🔗 [Visit My Website](https://djere.com)
+
+---
+
+This repository is part of my ongoing effort to provide high-quality **saxophone etudes** for musicians worldwide. **Happy practicing! 🎶**
+
+
