@@ -1,23 +1,33 @@
-# Saxtalk.com 500 Daily Saxophone Etudes - Volume 2 (Eb Edition)
+# 500 Daily Saxophone Etudes - Volume 2 (Eb Edition)
 
-Volume 1 of my saxophone etudes book was focused on scale-based etudes.  
-Volume 2 is focused on mastering complex rhythms.  
-Practicing the Volume 2 etudes on a daily basis will help you to become a fantastic sight-reader who can read complex rhythms.
+## Introduction
+Welcome to **Volume 2** of the *500 Daily Saxophone Etudes* series. This volume focuses on **complex rhythms** and will help saxophonists improve their **sight-reading** skills. Practicing these etudes daily will significantly enhance your rhythmic accuracy and overall musical proficiency.
 
-## About
+All 500 etudes are available for listening on **MuseScore**:  
+📌 **[MuseScore Volume 2 Etudes](https://musescore.com/user/18100066/sets/6490291)**
 
-Practicing the Volume 2 etudes on a daily basis will help you to become a fantastic sight-reader who can read complex rhythms.  
-This book is for sale on Amazon.com, and you can listen to all of the 500 etudes on MuseScore here:  
-[https://musescore.com/user/18100066/sets/6490291](https://musescore.com/user/18100066/sets/6490291)
+---
 
-## Availability
+## Directory Structure
+This repository is organized into the following directories:
 
-This book will soon be available for purchase on [Amazon.com](https://www.amazon.com).  
-I'll update this page when it's available.
+### **[01_etudes](./01_etudes)**
+📁 Contains the **etude files** for Volume 2. These exercises focus on mastering complex rhythms and improving fluency.
 
-Feel free to explore the repository and use these etudes to enhance your saxophone playing.  
-If you have any questions or suggestions, please [contact me](mailto:rex@djere.com).
+### **[02_odt_files](./02_odt_files)**
+📁 This directory contains **OpenDocument Text files (ODT)**, which include formatted versions of the etudes. These files are editable in **LibreOffice Writer** and other compatible text editors.
 
-Happy playing!
+### **[03_gimp_xcf_files](./03_gimp_xcf_files)**
+📁 Stores **GIMP XCF files**, which contain the graphical elements used in the book. These files can be modified using **GIMP**.
 
+### **[04_txt_files](./04_txt_files)**
+📁 Contains important links related to this book:
+1.) **All 500 Etudes on MuseScore**: [MuseScore - 500 Daily Saxophone Etudes Volume 2](https://musescore.com/user/18100066/sets/6490291)
+2.) **This Book on GitHub**: [GitHub Repository](https://github.com/RexDjere/500_Daily_Saxophone_Etudes_volume_002)
+3.) **Support My Work on Patreon**: [Patreon - Djere](https://www.patreon.com/Djere)
+4.) **Buy This Book on Amazon**: *Coming soon*
 
+---
+
+## License
+This work is licensed under the **Creativ
