@@ -20,12 +20,12 @@ This repository is organized into the following directories:
 ### **[03_gimp_xcf_files](./03_gimp_xcf_files)**
 📁 Stores **GIMP XCF files**, which contain the graphical elements used in the book. These files can be modified using **GIMP**.
 
-### **[04_txt_files](./04_txt_files)**
+### [04_txt_files](./04_txt_files)
 📁 Contains important links related to this book:
-1.) **All 500 Etudes on MuseScore**: [MuseScore - 500 Daily Saxophone Etudes Volume 2](https://musescore.com/user/18100066/sets/6490291)
-2.) **This Book on GitHub**: [GitHub Repository](https://github.com/RexDjere/500_Daily_Saxophone_Etudes_volume_002)
-3.) **Support My Work on Patreon**: [Patreon - Djere](https://www.patreon.com/Djere)
-4.) **Buy This Book on Amazon**: *Coming soon*
+1.) All 500 Etudes on MuseScore: https://musescore.com/user/18100066/sets/6490291
+2.) This Book on GitHub: https://github.com/RexDjere/500_Daily_Saxophone_Etudes_volume_002
+3.) Support My Work on Patreon: https://www.patreon.com/Djere
+4.) Buy This Book on Amazon: https://www.amazon.com/dp/B0DZ6G3J2J
 
 ---
 
