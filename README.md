@@ -22,10 +22,10 @@ This repository is organized into the following directories:
 
 ### [04_txt_files](./04_txt_files)
 📁 Contains important links related to this book:
-1.) All 500 Etudes on MuseScore: https://musescore.com/user/18100066/sets/6490291
-2.) This Book on GitHub: https://github.com/RexDjere/500_Daily_Saxophone_Etudes_volume_002
-3.) Support My Work on Patreon: https://www.patreon.com/Djere
-4.) Buy This Book on Amazon: https://www.amazon.com/dp/B0DZ6G3J2J
+1. All 500 Etudes on MuseScore: https://musescore.com/user/18100066/sets/6490291
+2. This Book on GitHub: https://github.com/RexDjere/500_Daily_Saxophone_Etudes_volume_002
+3. Support My Work on Patreon: https://www.patreon.com/Djere
+4. Buy This Book on Amazon: https://www.amazon.com/dp/B0DZ6G3J2J
 
 ---
 
@@ -37,8 +37,9 @@ You are free to **use, modify, and share** the materials as long as you provide 
 
 ---
 
-## Purchase the Book
-The *500 Daily Saxophone Etudes - Volume 2 (Eb Edition)* will soon be available for purchase on **Amazon**. A link will be provided here once the book is published.
+## Purchase the Book  
+The *500 Daily Saxophone Etudes - Volume 2 (Eb Edition)* is now available for purchase on **Amazon**.  
+You can buy it here: https://www.amazon.com/dp/B0DZ6G3J2J  
 
 ---
 
